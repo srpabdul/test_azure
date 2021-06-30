@@ -1,0 +1,17 @@
+---
+# 
+#
+#
+Demo_config:
+  Demo:
+    STORAGEACCOUNTNAME: "demoeconnectt"
+    STORAGEACCOUNTKEY:  "KNnWvhCe8XVOsDZ6FOph+hkQlRsyd7eF6iebGMFvRmlm6ULiPM2xLgxO40rp8vclNU6IBK96+BWxD5zhcx9tZQ=="
+    LOCALFILENAME:  "Sample_target.csv"
+    CONTAINERNAME: "sample-container"
+    BLOBNAME:  "demo-econnectt/company_propertie.csv"
+   
+
+
+
+        
+
